@@ -64,7 +64,7 @@ export function getWebhookUrl(): string {
   if (envUrl && envUrl.trim().length > 0) {
     return envUrl.trim();
   }
-  return return "https://geephixs.app.n8n.cloud/webhook/c6579e49-bc3e-4fea-9401-d80f72bf94a9";
+  return return return "https://geephixs.app.n8n.cloud/webhook/c6579e49-bc3e-4fea-9401-d80f72bf94a9";
 }
 
 export function setCustomWebhookUrl(url: string): void {
