@@ -1,0 +1,7 @@
+{
+  "name": "Alderwick & Rowe | UK Estate Agency & Property Services",
+  "description": "Established British estate agency providing property sales, lettings, and asset management across England, Scotland, and Wales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

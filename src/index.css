@@ -1,0 +1,35 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "Playfair Display", Georgia, Cambria, serif;
+  --font-sans: "Plus Jakarta Sans", system-ui, -apple-system, sans-serif;
+  --color-forest: #1F3A2E;
+  --color-forest-dark: #162B22;
+  --color-forest-light: #2A4D3E;
+  --color-cream: #F5F0E6;
+  --color-cream-light: #FCFBF7;
+  --color-cream-dark: #E8DECC;
+  --color-brass: #B08D57;
+  --color-brass-dark: #91713F;
+  --color-brass-light: #C5A46F;
+  --color-charcoal: #222222;
+  --color-charcoal-muted: #555555;
+  --color-charcoal-light: #888888;
+}
+
+html {
+  font-family: "Plus Jakarta Sans", system-ui, -apple-system, sans-serif;
+  scroll-behavior: smooth;
+  color: #222222;
+  background-color: #F5F0E6;
+}
+
+h1, h2, h3, .font-serif {
+  font-family: "Playfair Display", Georgia, Cambria, serif;
+}
+
+/* Custom focus ring for accessibility */
+:focus-visible {
+  outline: 2px solid #B08D57;
+  outline-offset: 2px;
+}
