@@ -18,6 +18,13 @@ The project combines a responsive property website with structured enquiry intak
 
 The objective is to demonstrate a practical approach to connecting customer-facing digital experiences with intelligent business processes.
 
+### Application Preview
+
+![Alderwick & Rowe — Live Website](screenshots/alderwick-rowe-homepage.png)
+
+[Explore the Live Website](https://stellar-seahorse-7ca03c.netlify.app/)
+
+
 ## 2. The Business Problem
 
 Property businesses often manage enquiries from multiple channels. Manual handling can introduce several operational challenges:
