@@ -64,6 +64,11 @@ Key technical components include:
 
 **Supporting technologies:** Express, Zod, GitHub and Netlify.
 
+### System Architecture Diagram
+
+![Alderwick & Rowe System Architecture](screenshots/alderwick-rowe-architecture.png)
+
+
 ## 5. Implemented Features
 
 The repository's launch checklist documents the following capabilities:
